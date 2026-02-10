@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 /* 
 Question : multiple odd index elemets by 2 and add even index by 10
